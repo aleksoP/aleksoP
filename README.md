@@ -1,4 +1,22 @@
-## Hi there 👋
+## Aleksandr Puström
+
+### *Robotics Engineer*
+Anyang South Korea
+
+## Education
+- Master's: 2023-2025 Seoul National University
+- Bachelor's: 2017-2021 University of Aberdeen
+
+## Research/Work interests
+- Robotics integration
+- Locomotion
+
+## Skills
+- Natural Language: Estonian; English; Russian; Korean
+- Programming Language: **Python**; C++; MATLAB
+- Typesetting Language: **LaTeX**
+- Programming Framework: **ROS**; TensorFlow
+
 
 <!--
 **aleksoP/aleksoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
