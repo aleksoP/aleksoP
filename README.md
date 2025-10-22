@@ -15,7 +15,7 @@ Anyang South Korea
 - Natural Language: Estonian; English; Russian; Korean
 - Programming Language: **Python**; C++; MATLAB
 - Typesetting Language: **LaTeX**
-- Programming Framework: **ROS**; TensorFlow
+- Programming Framework: **ROS/ROS2**; TensorFlow
 
 
 <!--
