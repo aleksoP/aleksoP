@@ -13,7 +13,7 @@ Anyang South Korea
 
 ## Skills
 - Natural Language: Estonian; English; Russian; Korean
-- Programming Language: **Python**; C++; MATLAB
+- Programming Language: **Python**; C/C++; MATLAB
 - Typesetting Language: **LaTeX**
 - Programming Framework: **ROS/ROS2**; TensorFlow
 
