@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" src="prof.gif" />
+  <img width="1000" src="prof-light.gif" />
 </p>
 
 ## Aleksandr Puström
@@ -33,15 +33,15 @@ Anyang, South Korea
 ## Projects
 
 <!-- ======== LASDRA DROPDOWN START ======== -->
-
+  <p align="center">
+    <a href="assets/lasdra/operation.gif">
+      <img width="800" src="assets/lasdra/operation.gif" />
+    </a>
+  </p>
+  
 <details>
   <summary><strong>LASDRA Teleoperation System (Click to Expand)</strong></summary>
   <br>
-
-  <!-- Small preview video at the top -->
-  <p align="center">
-    <img width="800" src="lasdra_preview.gif" />
-  </p>
 
   ## 🚁 LASDRA Teleoperation System
 
@@ -57,33 +57,30 @@ Anyang, South Korea
   - **UE5 Digital Twin**  
     High-fidelity model synced with real-time LiDAR, IMU, and motion-capture  
     <p align="center">
-      <img width="700" src="dt_photo_01.jpg" />
+      <a href="assets/lasdra/setup.png">
+        <img width="700" src="assets/lasdra/setup.png" />
+      </a>
     </p>
 
   - **VR Spatial Interface** (Meta Quest 2)  
     Immersive real-time navigation and manipulation  
     <p align="center">
-      <img width="700" src="vr_photo_01.jpg" />
+      <a href="assets/lasdra/unreal-franka.mp4">
+        <img width="700" src="assets/lasdra/unreal-franka.gif" />
+      </a>
     </p>
 
   - **Gesture-Based View Control (VIST Glove)**  
     Single-hand viewport manipulation with pinch-activated controls  
-    <p align="center">
-      <img width="700" src="vist_glove.jpg" />
-    </p>
 
   - **Haptic Teleoperation (Franka Emika)**  
     Force-feedback master device for fine manipulation  
     <p align="center">
-      <img width="700" src="franka_photo_01.jpg" />
+      <img width="700" src="assets/lasdra/setup.png" />
     </p>
 
   - **Unified PyQt Control Panel**  
     A single GUI controlling joint locking, velocity modes, and telemetry  
-    <p align="center">
-      <img width="700" src="gui_photo_01.jpg" />
-    </p>
-
   - **Two-PC Architecture over NNG**  
     Ubuntu (ROS) ↔ Windows (UE5 + VR) real-time data pipeline
 
@@ -96,14 +93,10 @@ Anyang, South Korea
 
 <!-- ======== TRI TILT-ROTOR PROJECT DROPDOWN START ======== -->
 
+
 <details>
   <summary><strong>Tri Tilt-Rotor VTOL UAV — Bachelor’s Thesis (Click to Expand)</strong></summary>
   <br>
-
-  <!-- Small preview video or GIF -->
-  <p align="center">
-    <img width="800" src="tri_tilt_preview.gif" />
-  </p>
 
   ## ✈️ Tri Tilt-Rotor VTOL UAV — Transition Flight Project
 
@@ -128,7 +121,7 @@ Anyang, South Korea
   - **Tri-Rotor Tilting Mechanism Design**  
     3D-printed servo-driven tilt joints enabling 0–90° rotation for all three motors  
     <p align="center">
-      <img width="700" src="tilt_mechanism.jpg" />
+      <img width="200" src="assets/drone/tilt.gif" />
     </p>
 
   - **Flight Dynamics & Control Architecture**  
@@ -136,37 +129,35 @@ Anyang, South Korea
     - Cruise mode: aerodynamic control via ailerons & V-tail  
     - Transition: gain-scheduled mixed controller (20°–40° tilt blending)  
     <p align="center">
-      <img width="700" src="transition_diagram.jpg" />
+      <img width="700" src="assets/drone/Longitudial.jpg" />
     </p>
 
   - **Full CAD Design & Prototype Manufacturing**  
     - Airframe built from plywood & custom 3D-printed parts  
     - Inverted V-tail, equilateral motor placement  
     <p align="center">
-      <img width="700" src="prototype.jpg" />
+      <img width="700" src="assets/drone/Cruise.jpg" />
     </p>
 
   - **Motor Selection, Testing & Thrust Characterization**  
     - T-Motor AT3520 + APC 17x4 propellers  
     - Complete thrust-current & thrust-throttle curve analysis  
-    <p align="center">
-      <img width="700" src="motor_test.jpg" />
-    </p>
 
   - **Autopilot Integration (ArduPilot + Pixhawk Cube Orange)**  
     - PID tuning, gain scheduling, mission planner integration  
     - SBUS radio link, telemetry radio, GPS, ESCs  
-    <p align="center">
-      <img width="700" src="pixhawk_setup.jpg" />
-    </p>
-
   - **Hover & Transition Flight Testing**  
     Completed multiple hover flights → transition to cruise → return to hover  
-    <p align="center">
-      <img width="700" src="flight_test.gif" />
-    </p>
-
   ### **Results**
+
+  <p align="center">
+    <img width="700" src="assets/drone/maps.jpg" />
+  </p>
+  <p align="center">
+    <a href="assets/drone/Short.mp4">
+      <img width="800" src="assets/drone/Short.gif" />
+    </a>
+  </p>
   - Successful autonomous transition from vertical takeoff → cruise → return  
   - Verified concept and handed system to the **Aerospace Engineering Society**  
   - Achieved stable hover, controllable cruise, and reliable transition behavior  
