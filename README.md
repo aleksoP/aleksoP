@@ -115,8 +115,7 @@ Anyang, South Korea
   ![Testing](https://img.shields.io/badge/Field_Tests-Completed-success)
 
   **Tri-Rotor • Fully Tiltable • Autonomous Transition Flight**  
-  Bachelor's Thesis, University of Aberdeen (2021)  
-  :contentReference[oaicite:1]{index=1}
+  Bachelor's Thesis, University of Aberdeen (2021)
 
   ### **Overview**
   Designed, built, and flight-tested a **Tri Tilt-Rotor VTOL UAV** capable of transitioning  
@@ -175,8 +174,7 @@ Anyang, South Korea
   ### **Thesis**
   _“Transition Flight of Tri Tilt-Rotor VTOL UAV”_  
   Bachelor of Engineering, University of Aberdeen  
-  (Full document available in repository)  
-  :contentReference[oaicite:2]{index=2}
+  (Full document available in repository)
 
   <br>
 </details>
