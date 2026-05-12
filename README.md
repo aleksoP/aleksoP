@@ -16,8 +16,8 @@ Anyang, South Korea
 
 ## Research / Work Interests
 - Robotics integration  
-- Teleoperation systems  
-- Aerial manipulation  
+- Teleoperation systems & Manipulation
+- Automation
 - Digital twins & VR interfaces  
 
 ---
